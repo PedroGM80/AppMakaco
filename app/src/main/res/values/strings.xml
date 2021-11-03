@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">App Makaco</string>
+    <string name="total_consumer_200_mb">Total Consumer: 200 MB</string>
+    <string name="total_200">Total: 200€</string>
+    <string name="buy_extra_bonos">Buy extra bonos</string>
+    <string name="change_payd_method">Change payd method</string>
+    <string name="user_config">User Config</string>
+    <string name="_30_min_3_5">30 min 3,5€</string>
+    <string name="_100_min_2">100 min 2€</string>
+    <string name="acept_terms_of_service_and_privacity">Acept terms of service and privacity.</string>
+    <string name="modify">Modify</string>
+    <string name="name">Name</string>
+    <string name="credit_number">Credit number:</string>
+    <string name="paypal">PayPal</string>
+    <string name="targed">Target</string>
+    <string name="change_pay_method">Change pay method</string>
+    <string name="nameUser">Name:</string>
+    <string name="confirm">Confirm</string>
+</resources>
